@@ -1,0 +1,34 @@
+*{background-color: #E9D5CA;
+box-sizing: content-box;}
+
+
+h1 {text-align: center;
+color:#827397;
+border: 4px solid #363062;
+border-radius: 9px;
+font-size: 50px;
+}
+
+h2, h3, h4{
+    text-align: center;
+color:#827397;
+border: 4px solid #363062;
+border-radius: 9px;
+padding: 5px;
+margin-bottom: 0%;
+}
+
+p, ul, ol{
+    border: 2px solid #4D4C7D;
+    border-radius: 9px;
+    margin-top: 0%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
