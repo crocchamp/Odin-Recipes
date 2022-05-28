@@ -1,0 +1,29 @@
+[33mcommit 3998bcc0eb199b21448fe4ed859b77f999ca2c9b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jackson Hughes <jackson.hughes@live.com>
+Date:   Sat May 28 16:45:02 2022 -0400
+
+    Add pierogi ingredients
+
+[33mcommit 4016dafa36cc84cd71c0ce524130f03d9b30380d[m
+Author: Jackson Hughes <jackson.hughes@live.com>
+Date:   Sat May 28 16:39:50 2022 -0400
+
+    Add piergoi image to pierogi recipe page
+
+[33mcommit 1844dadcddf9d61812e7bf3f396798c35d876ecc[m
+Author: Jackson Hughes <jackson.hughes@live.com>
+Date:   Sat May 28 16:36:51 2022 -0400
+
+    Create piergoi page and add link in index
+
+[33mcommit c094043c5048b86193f0a0f486dca1e9d5514540[m
+Author: Jackson Hughes <jackson.hughes@live.com>
+Date:   Sat May 28 16:32:58 2022 -0400
+
+    Edit README and create index with title and heading
+
+[33mcommit ae83e8546bb5a3fb94653b467afe31aa97678231[m
+Author: Jack <106277670+crocchamp@users.noreply.github.com>
+Date:   Sat May 28 16:16:34 2022 -0400
+
+    Initial commit
